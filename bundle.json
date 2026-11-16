@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "release": "v0.2.0",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "410f37a55768309e67fbce2b579762cb345cc040543b573624f3f6110212ccf9",
+      "bytes": 1037
+    },
+    {
+      "path": "CHANGELOG.zh-CN.md",
+      "sha256": "8133d5858d0786590675e02ffa1c35223197034aff0b170f26346a81232d6824",
+      "bytes": 912
+    },
+    {
+      "path": "compatibility.json",
+      "sha256": "4408d667251aad36d9ee77191fac024cba3fc1f94e8d74142c2b3bc36952308f",
+      "bytes": 534
+    },
+    {
+      "path": "dependencies.lock.json",
+      "sha256": "fb2def300c6f888112c794107148f089c10c77129d8e3076df4592d9e8ce7e08",
+      "bytes": 6112
+    },
+    {
+      "path": "docs/FAQ.md",
+      "sha256": "13c680b97e392f576bf6c51c34437e7c8b1ca8360176d79f8bd96f75da230668",
+      "bytes": 4336
+    },
+    {
+      "path": "docs/FAQ.zh-CN.md",
+      "sha256": "44b41b198fb8efec596ccd2e9f3dd9027f768c8d0bccfaa97ae600c8ec6c8685",
+      "bytes": 4075
+    },
+    {
+      "path": "docs/INSTALL.md",
+      "sha256": "04366f1ba081101486786e16f56a916a25f40e56cb0b7e04363b924d8e28d624",
+      "bytes": 7567
+    },
+    {
+      "path": "docs/INSTALL.zh-CN.md",
+      "sha256": "2754e47800543f43399a249688a741ed564df3bd410b16b09f7bd5dde9eb526e",
+      "bytes": 7464
+    },
+    {
+      "path": "docs/KNOWN-ISSUES.md",
+      "sha256": "d0af64f2e7983d3262b2ec63f4830912ca2e62825324264ccab6cb5d6197a46f",
+      "bytes": 1858
+    },
+    {
+      "path": "docs/KNOWN-ISSUES.zh-CN.md",
+      "sha256": "c11ea68ddb40c1d06efc62b53a16babd609d37a0e9b13bde69dd38f07f507afe",
+      "bytes": 1597
+    },
+    {
+      "path": "docs/SKINS.md",
+      "sha256": "0dd93913f175647a3428f427264b0742fd91653bd30c471414d66597114279c0",
+      "bytes": 2505
+    },
+    {
+      "path": "docs/SKINS.zh-CN.md",
+      "sha256": "efc52ab3355ad7835c734b3512937b4821838fc38a51dbe5def7aa83b802d5ff",
+      "bytes": 2362
+    },
+    {
+      "path": "docs/UPGRADE.md",
+      "sha256": "6471bcec021676467500c5757f07561da8b085db6c86f320a697138351fdc01b",
+      "bytes": 2320
+    },
+    {
+      "path": "docs/UPGRADE.zh-CN.md",
+      "sha256": "379b89033b6d1b39fb8eab86b29dfd7714c5836e70d5aaeb80caf7c342c265a2",
+      "bytes": 2155
+    },
+    {
+      "path": "docs/USAGE.md",
+      "sha256": "e8d95aa58bd171eb954dc8b39eef068ef6c04a2e1d9ab0a919f1f2cfd42b68d0",
+      "bytes": 4782
+    },
+    {
+      "path": "docs/USAGE.zh-CN.md",
+      "sha256": "244b5a8170c467fd88be7b3ad356e43aa8a4c32fe2415fcfaecb85544497f9b9",
+      "bytes": 4232
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "fe2ef964320ff7126d2f2632f8554636071d20b9936fe4a62a849c339047f055",
+      "bytes": 1080
+    },
+    {
+      "path": "LICENSES/altgraph-LICENSE.txt",
+      "sha256": "6c194d6db0c64d45535d10c95142b9b0cda7b7dcc7f1ddee302b3d536f3dbe46",
+      "bytes": 1002
+    },
+    {
+      "path": "LICENSES/Gradle-Apache-2.0.txt",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "bytes": 10174
+    },
+    {
+      "path": "LICENSES/Java-WebSocket-MIT.txt",
+      "sha256": "15101a7cbdaa7f1c161424b760e907e7832e4a1e7f05d03373ca91fbffdb95ee",
+      "bytes": 1082
+    },
+    {
+      "path": "LICENSES/pefile-LICENSE.txt",
+      "sha256": "b44409c067c6da52bfb54bb6624fb11a7b52157c3a13ae1400232f8196e86ad3",
+      "bytes": 1083
+    },
+    {
+      "path": "LICENSES/pillow-LICENSE.txt",
+      "sha256": "51ed379cf673c9676b7fa7e1bedbfc5d4ad63caac4f6f99eeec5ccab50c3e0ef",
+      "bytes": 76435
+    },
+    {
+      "path": "LICENSES/pyinstaller-COPYING-txt.txt",
+      "sha256": "dcf75fdb959db1e3b41c0f8505069d2ece781b5ec6b3d0a4d30975cfc6580245",
+      "bytes": 32138
+    },
+    {
+      "path": "LICENSES/pyinstaller-hooks-contrib-LICENSE.txt",
+      "sha256": "91d0baaff00773038e72c0a1fc9d5d2d38706b7a2b9c04f34296608f931b9cd0",
+      "bytes": 27666
+    },
+    {
+      "path": "LICENSES/Python-PSF.txt",
+      "sha256": "a4771d2216653fca4e3472566a762ba8ce5358f6f6599455fe7cfaceb60d14b3",
+      "bytes": 36235
+    },
+    {
+      "path": "LICENSES/pywin32-ctypes-LICENSE-txt.txt",
+      "sha256": "cc03ae891a362c85d508a4e47af954314a2e4ccbd445140cb8dca7e2baee19f7",
+      "bytes": 1616
+    },
+    {
+      "path": "LICENSES/ReShade-BSD-3-Clause.txt",
+      "sha256": "237ded5b8344f820113efab1e65e91e1f159d9202c5b4856606a0590d3ffdab0",
+      "bytes": 1481
+    },
+    {
+      "path": "LICENSES/ReShade-fxh-CC0.txt",
+      "sha256": "dd8becf4d6d9e338e0e77a0d2d81af46ea839a5e287f2b70aef31a080b68267b",
+      "bytes": 156
+    },
+    {
+      "path": "LICENSES/ReShade-SDK-MIT.txt",
+      "sha256": "e63d8ba6df1d7b23af49f8147a14a9fc97d568232cd15737dac923e6c9e34bca",
+      "bytes": 1106
+    },
+    {
+      "path": "LICENSES/Tcl-license.txt",
+      "sha256": "c0a69a2bfd757361ec7e6143973b103c90409316b49e9c88db26ad6388e79f16",
+      "bytes": 2255
+    },
+    {
+      "path": "LICENSES/Tk-license.txt",
+      "sha256": "2cde822b93ca16ae535c954b7dfe658b4ad10df2a193628d1b358f1765e8b198",
+      "bytes": 2267
+    },
+    {
+      "path": "LICENSES/universal-modder-MIT.txt",
+      "sha256": "db6cfa2ad2c44f73080440c866c4a3a078749d84ba40b4dfa27d50f18a525543",
+      "bytes": 1096
+    },
+    {
+      "path": "MCX-Wukong-Setup.exe",
+      "sha256": "53e51c5059ccf927bfe710e60a764cfb564eb307068d06fe749181ddf29302b4",
+      "bytes": 30620665
+    },
+    {
+      "path": "MCX-Wukong-v0.2.0.mrpack",
+      "sha256": "fc5cbc52ae02fe9f1803ef96da8fea0aa9b47b941b76fd6f25fc30b0c5c71c83",
+      "bytes": 360736
+    },
+    {
+      "path": "payload/cg-skin-scale.txt",
+      "sha256": "fcc530885445d08773ac68758e8a139648a4394f50d4d85dad9384cfb23cf875",
+      "bytes": 23
+    },
+    {
+      "path": "payload/DqjCombat.dll",
+      "sha256": "1c13910982b5ae0d372c2f0229bd35f24641f668f592c0e1da6baf8d3491f98c",
+      "bytes": 275968
+    },
+    {
+      "path": "payload/DqjMCBridge.ini",
+      "sha256": "ba14a59207947ea3da503fa54d95726b18248141471ccbb5ae0d5f47879aa357",
+      "bytes": 288
+    },
+    {
+      "path": "payload/DqjMCCompositor.addon64",
+      "sha256": "9b30766c30a310061a0f3a4674da430a7a35ffd4e25d15628b2cc6c60ff4c0ed",
+      "bytes": 669914
+    },
+    {
+      "path": "payload/dxgi.dll",
+      "sha256": "0cee63f9c9f13f3ac909c5b4903f4dbb4b719a7ab3b4f13b0deaf83c814b94f7",
+      "bytes": 5592064
+    },
+    {
+      "path": "payload/mc-bridge.enabled",
+      "sha256": "ecf6c480d0fa3642ad7fc1e81086ca6865c31ce7a8bd8cddd626e9318fe01a43",
+      "bytes": 6
+    },
+    {
+      "path": "payload/MCPassthrough.fx",
+      "sha256": "d814776d235b79599148a9023d0b4441d03e50400bf89402701f6db4491bccc4",
+      "bytes": 23609
+    },
+    {
+      "path": "payload/MCX-Wukong-Bridge-0.2.0.jar",
+      "sha256": "ddf43fce14af5d69165fdc74bba8e5911237f31c3745f11f901e291aace8722d",
+      "bytes": 374871
+    },
+    {
+      "path": "payload/ReShade.fxh",
+      "sha256": "6dabfbbaf968c3871905d2ea17f96572ff7b1cec01310b5d0e5252b66b30174f",
+      "bytes": 4250
+    },
+    {
+      "path": "payload/ReShade.ini",
+      "sha256": "9fd3a7c867ce71d1b3f7c71ffa8b4e627fa45d0bae8591fc1107795f8ea72c4c",
+      "bytes": 401
+    },
+    {
+      "path": "payload/skin.png",
+      "sha256": "0fe9fcec0ec866292087038aaab261a967754fc402245f5e3da7371be9a62da7",
+      "bytes": 508
+    },
+    {
+      "path": "README.md",
+      "sha256": "1f1d99149f221f012b572d114e3b58d2d6fa0e647d0eb15104b2ea331708d722",
+      "bytes": 5854
+    },
+    {
+      "path": "README.zh-CN.md",
+      "sha256": "18dbab51b66806f2dbc6a3ff6bbf36aebce686de1223d0b0e4a7aee43b82a89e",
+      "bytes": 5564
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "sha256": "9c228773854253c34460723048390fba7057008498708baf8fbc1ee0b911e065",
+      "bytes": 1703
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.zh-CN.md",
+      "sha256": "d5f6797604b33037640587aff63cabe782ab94bbf5505f93f4c9ecbf53bffbdd",
+      "bytes": 1587
+    }
+  ],
+  "install": [
+    {
+      "source": "payload/DqjCombat.dll",
+      "target": "CSharpLoader/Mods/DqjCombat/DqjCombat.dll"
+    },
+    {
+      "source": "payload/DqjMCCompositor.addon64",
+      "target": "DqjMCCompositor.addon64"
+    },
+    {
+      "source": "payload/dxgi.dll",
+      "target": "dxgi.dll"
+    },
+    {
+      "source": "payload/MCPassthrough.fx",
+      "target": "reshade-shaders/Shaders/MCPassthrough.fx"
+    },
+    {
+      "source": "payload/ReShade.fxh",
+      "target": "reshade-shaders/Shaders/ReShade.fxh"
+    },
+    {
+      "source": "payload/cg-skin-scale.txt",
+      "target": "CSharpLoader/Mods/DqjCombat/cg-skin-scale.txt"
+    },
+    {
+      "source": "payload/ReShade.ini",
+      "target": "ReShade.ini"
+    },
+    {
+      "source": "payload/DqjMCBridge.ini",
+      "target": "DqjMCBridge.ini"
+    },
+    {
+      "source": "payload/mc-bridge.enabled",
+      "target": "CSharpLoader/Mods/DqjCombat/mc-bridge.enabled"
+    }
+  ],
+  "claims": "Offline/package checks only; live public-profile acceptance pending"
+}

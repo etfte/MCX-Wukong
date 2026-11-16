@@ -1,0 +1,18 @@
+# GEMINI rules
+GEMINI.md
+*GEMINI*
+.gemini/
+.user_uploaded/
+
+# Build artifacts and temp
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.log
+
+# OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
